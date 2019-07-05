@@ -1,5 +1,5 @@
 {
-  "name": "mykeystore-node-back",
+  "name": "graphql-mongodb",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
